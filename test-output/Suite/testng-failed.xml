@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="classes">
+  <test thread-count="5" name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="ExtentReport.MouseHover">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- ExtentReport.MouseHover -->
+      <class name="ExtentReport.OpeningBrowser">
+        <methods>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- ExtentReport.OpeningBrowser -->
+      <class name="ExtentReport.actime">
+        <methods>
+          <include name="openApp"/>
+        </methods>
+      </class> <!-- ExtentReport.actime -->
+      <class name="ExtentReport.LoginCheckup">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- ExtentReport.LoginCheckup -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

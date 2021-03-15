@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="153279" started-at="2021-03-14T17:19:21Z" finished-at="2021-03-14T17:21:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="153279" started-at="2021-03-14T17:19:21Z" finished-at="2021-03-14T17:21:54Z">
+      <class name="ExtentReport.actime">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:ExtentReport.actime@68be2bc2]" name="openApp" duration-ms="84127" started-at="2021-03-14T17:19:21Z" finished-at="2021-03-14T17:20:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="openAppe()[pri:0, instance:ExtentReport.actime@68be2bc2]" name="openAppe" duration-ms="31590" started-at="2021-03-14T17:20:45Z" finished-at="2021-03-14T17:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppe -->
+      </class> <!-- ExtentReport.actime -->
+      <class name="ExtentReport.LoginCheckup">
+        <test-method status="PASS" signature="Login()[pri:0, instance:ExtentReport.LoginCheckup@28feb3fa]" name="Login" duration-ms="94141" started-at="2021-03-14T17:19:21Z" finished-at="2021-03-14T17:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- ExtentReport.LoginCheckup -->
+      <class name="ExtentReport.MouseHover">
+        <test-method status="PASS" signature="Login()[pri:0, instance:ExtentReport.MouseHover@482f8f11]" name="Login" duration-ms="73738" started-at="2021-03-14T17:19:21Z" finished-at="2021-03-14T17:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- ExtentReport.MouseHover -->
+      <class name="ExtentReport.OpeningBrowser">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:ExtentReport.OpeningBrowser@675d3402]" name="openBrowser" duration-ms="70856" started-at="2021-03-14T17:19:21Z" finished-at="2021-03-14T17:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openBrowser1()[pri:1, instance:ExtentReport.OpeningBrowser@675d3402]" name="openBrowser1" duration-ms="37477" started-at="2021-03-14T17:21:16Z" finished-at="2021-03-14T17:21:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser1 -->
+      </class> <!-- ExtentReport.OpeningBrowser -->
+      <class name="ExtentReport.ExtentReport_class">
+        <test-method status="PASS" signature="correspondent()[pri:0, instance:ExtentReport.ExtentReport_class@51565ec2]" name="correspondent" duration-ms="1594" started-at="2021-03-14T17:19:21Z" finished-at="2021-03-14T17:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correspondent -->
+      </class> <!-- ExtentReport.ExtentReport_class -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
